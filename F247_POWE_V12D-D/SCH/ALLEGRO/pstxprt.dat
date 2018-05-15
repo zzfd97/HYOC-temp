@@ -1,0 +1,1177 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001May-15-2018 at 19:27:37 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='F247_POWE_V12D-D';
+ POST_TIME='Mar 19 2018 12:24:12';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS23930@MYLIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins23930@mylib.\cap np.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins23930@mylib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS776568@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins776568@discrete.\cap np.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins776568@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS725@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins725@discrete.\cap np.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins725@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C152 'CAP NP_CC0603_10UF_10V':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS16672418@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins16672418@discrete.\cap np.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins16672418@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C153 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS16672338@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins16672338@discrete.\cap np.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins16672338@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C154 'CAP NP_2_CC0603_10UF_10V':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS16677633@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins16677633@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins16677633@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C155 'CAP NP_2_CC0603_10UF_10V':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS16678001@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins16678001@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins16678001@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C156 'CAP NP_2_CC0603_10UF_10V':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS16678102@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins16678102@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins16678102@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C157 'CAP NP_2_CC0603_4.7UF_16V':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS16678746@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins16678746@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins16678746@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C158 'CAP NP_2_CC0603_4.7UF_16V':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS16683432@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins16683432@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins16683432@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C159 'CAP NP_2_CC0603_10UF_10V':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS16686783@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins16686783@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins16686783@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP NP_CC0603_10UF_10V':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS709@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins709@discrete.\cap np.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins709@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C160 'CAP NP_2_CC0603_4.7UF_16V':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS16700575@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins16700575@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins16700575@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C161 'CAP NP_2_CC0603_4.7UF_16V':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS16700766@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins16700766@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins16700766@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'C_GENERIC_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS7824@CUDJOE SV.C_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins7824@\cudjoe sv\.\c_generic.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins7824@\cudjoe sv\.\c_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'CAP_0_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS672823@OLT4PON2.CAP_0.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins672823@olt4pon2.\cap_0.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins672823@olt4pon2.\cap_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_CC0603_12PF_50V':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS731439@KENDIN.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins731439@kendin.\cap np.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins731439@kendin.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C24 'C_GENERIC_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS763860@CUDJOE SV.C_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins763860@\cudjoe sv\.\c_generic.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins763860@\cudjoe sv\.\c_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C26 'C_GENERIC_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS767119@CUDJOE SV.C_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins767119@\cudjoe sv\.\c_generic.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins767119@\cudjoe sv\.\c_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP NP_CC0603_12PF_50V':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS731399@KENDIN.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins731399@kendin.\cap np.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins731399@kendin.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C30 'C_GENERIC_CC0603_10UF/10V':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS766941@CUDJOE SV.C_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins766941@\cudjoe sv\.\c_generic.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins766941@\cudjoe sv\.\c_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C35 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS767527@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins767527@discrete.\cap np.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins767527@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C37 'C_GENERIC_CC0603_1NF_50V':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS781513@CUDJOE SV.C_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins781513@\cudjoe sv\.\c_generic.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins781513@\cudjoe sv\.\c_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C38 'CAP NP_2_CC0603_4.7UF_16V':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS16660917@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins16660917@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins16660917@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C39 'CAP NP_2_CC0603_4.7UF_16V':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS16661664@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins16661664@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins16661664@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'C_GENERIC_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS764304@CUDJOE SV.C_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins764304@\cudjoe sv\.\c_generic.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins764304@\cudjoe sv\.\c_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C41 'CAP NP_2_CC0603_4.7UF_16V':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS16663906@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins16663906@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins16663906@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'C_GENERIC_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS767251@CUDJOE SV.C_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins767251@\cudjoe sv\.\c_generic.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins767251@\cudjoe sv\.\c_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C65 'TMP_154254_CC7343_31_100UF_25V':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS16687894@MK60_YTAI_V41B.TMP_154254.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins16687894@mk60_ytai_v41b.\tmp_154254.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins16687894@mk60_ytai_v41b.\tmp_154254.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS765536@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins765536@discrete.\cap np.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins765536@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'LED_LED0805_LED_GREEN':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS163327@BCM_911EDA.LED.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins163327@bcm_911eda.\led.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins163327@bcm_911eda.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'LED_LED0805_LED_RED':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS770909@BCM_911EDA.LED.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins770909@bcm_911eda.\led.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins770909@bcm_911eda.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'LED_LED0805_LED_RED':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS770847@BCM_911EDA.LED.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins770847@bcm_911eda.\led.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins770847@bcm_911eda.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'DIODE13_7_SOD-123_1N4148W-TP':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS16686370@MK60_YTAI_V41B.DIODE13_7.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins16686370@mk60_ytai_v41b.\diode13_7.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins16686370@mk60_ytai_v41b.\diode13_7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D9 'DIODE13_0_SOD-123_MBR0520':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS16687373@F247_POWE_V12C.DIODE13_0.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins16687373@f247_powe_v12c.\diode13_0.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins16687373@f247_powe_v12c.\diode13_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'IND_BEAD_0805_600OHM_200MA_LC08':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS757@EP_LF_ORCAD_LIBRARY1.IND_BEAD_0805_600OHM_200MA.CONVERT(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins757@ep_lf_orcad_library1.\ind_bead_0805_600ohm_200ma.convert\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins757@ep_lf_orcad_library1.\ind_bead_0805_600ohm_200ma.convert\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'IND_BEAD_0805_600OHM_200MA_LC08':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS767637@EP_LF_ORCAD_LIBRARY1.IND_BEAD_0805_600OHM_200MA.CONVERT(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins767637@ep_lf_orcad_library1.\ind_bead_0805_600ohm_200ma.convert\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins767637@ep_lf_orcad_library1.\ind_bead_0805_600ohm_200ma.convert\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q10 'PNP 2SB1386_0_SOT23_123_BAT54S':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS3685@IMX6_DATA_V14D.PNP 2SB1386_0.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins3685@imx6_data_v14d.\pnp 2sb1386_0.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins3685@imx6_data_v14d.\pnp 2sb1386_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 'PNP 2SB1386_0_SOT23_123_BAT54S':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS3365@IMX6_DATA_V14D.PNP 2SB1386_0.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins3365@imx6_data_v14d.\pnp 2sb1386_0.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins3365@imx6_data_v14d.\pnp 2sb1386_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q3 'PNP 2SB1386_0_SOT23_123_BAT54S':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS3457@IMX6_DATA_V14D.PNP 2SB1386_0.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins3457@imx6_data_v14d.\pnp 2sb1386_0.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins3457@imx6_data_v14d.\pnp 2sb1386_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q4 'PNP 2SB1386_0_SOT23_123_BAT54S':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS3737@IMX6_DATA_V14D.PNP 2SB1386_0.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins3737@imx6_data_v14d.\pnp 2sb1386_0.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins3737@imx6_data_v14d.\pnp 2sb1386_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q5 'PNP 2SB1386_0_SOT23_123_BAT54S':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS3273@IMX6_DATA_V14D.PNP 2SB1386_0.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins3273@imx6_data_v14d.\pnp 2sb1386_0.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins3273@imx6_data_v14d.\pnp 2sb1386_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q56 'MOS-P_0_SOT23-3_AO3415':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS16669454@MK60_YTAI_V41B.MOS-P_0.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins16669454@mk60_ytai_v41b.\mos-p_0.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins16669454@mk60_ytai_v41b.\mos-p_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q6 'PNP 2SB1386_0_SOT23_123_BAT54S':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS3409@IMX6_DATA_V14D.PNP 2SB1386_0.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins3409@imx6_data_v14d.\pnp 2sb1386_0.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins3409@imx6_data_v14d.\pnp 2sb1386_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q60 'MOS-P_0_SOT23-3_2N7002':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS16688118@F247_POWE_V12C.MOS-P_0.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins16688118@f247_powe_v12c.\mos-p_0.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins16688118@f247_powe_v12c.\mos-p_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q61 'MOS-P_0_SOT23-3_2N7002':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS16693839@F247_POWE_V12C.MOS-P_0.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins16693839@f247_powe_v12c.\mos-p_0.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins16693839@f247_powe_v12c.\mos-p_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q7 'PNP 2SB1386_0_SOT23_123_BAT54S':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS3173@IMX6_DATA_V14D.PNP 2SB1386_0.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins3173@imx6_data_v14d.\pnp 2sb1386_0.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins3173@imx6_data_v14d.\pnp 2sb1386_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q8 'L14G1/TO_1_SOT23_123_S9013LT1G':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS160703@MK60N_002.L14G1/TO_1.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins160703@mk60n_002.\l14g1/to_1.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins160703@mk60n_002.\l14g1/to_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q9 'PNP 2SB1386_0_SOT23_123_BAT54S':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS3225@IMX6_DATA_V14D.PNP 2SB1386_0.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins3225@imx6_data_v14d.\pnp 2sb1386_0.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins3225@imx6_data_v14d.\pnp 2sb1386_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RES_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS160687@BCM_911EDA.RES.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins160687@bcm_911eda.\res.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins160687@bcm_911eda.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_RC0603_47K':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS23778@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins23778@discrete.\r.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins23778@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R_RC0603_47K':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS23794@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins23794@discrete.\r.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins23794@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_RC0603_47K':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS23810@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins23810@discrete.\r.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins23810@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'RES_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS672653@BCM_911EDA.RES.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins672653@bcm_911eda.\res.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins672653@bcm_911eda.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R_GENERIC_RC0603_100K':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS7724@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins7724@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins7724@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'R_GENERIC_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS7856@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins7856@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins7856@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'RES_RC0603_2K':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS160721@BCM_911EDA.RES.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins160721@bcm_911eda.\res.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins160721@bcm_911eda.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'RES_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS672673@BCM_911EDA.RES.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins672673@bcm_911eda.\res.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins672673@bcm_911eda.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R178 'R_GENERIC_RC0603_47K':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS16669406@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins16669406@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins16669406@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R179 'R_GENERIC_RC0603_1K':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS16669506@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins16669506@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins16669506@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'R_GENERIC_RC0603_47K':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS7952@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins7952@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins7952@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R180 'R_GENERIC_RC0603_47K':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS16669614@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins16669614@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins16669614@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R181 'R_GENERIC_R1206_5R':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS16670950@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins16670950@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins16670950@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'RES_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS672847@BCM_911EDA.RES.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins672847@bcm_911eda.\res.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins672847@bcm_911eda.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_GENERIC_RC0603_20R':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS767607@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins767607@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins767607@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'RES_RC0603_0R':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS171380@BCM_911EDA.RES.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins171380@bcm_911eda.\res.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins171380@bcm_911eda.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R22 'R_GENERIC_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS7920@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins7920@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins7920@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'R_GENERIC_RC0603_453K':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS764686@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins764686@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins764686@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R24 'R_GENERIC_RC0603_267K':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS764060@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins764060@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins764060@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R25 'R_GENERIC_RC0603_47K':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS764126@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins764126@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins764126@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R26 'R_GENERIC_RC0603_0/NI':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS766995@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins766995@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins766995@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R27 'R_GENERIC_RC0603_47K':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS764014@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins764014@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins764014@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R28 'R_GENERIC_RC0603_0R':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS766891@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins766891@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins766891@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R29 'R_GENERIC_RC0603_47K':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS764608@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins764608@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins764608@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_RC0603_1K':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS767373@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins767373@discrete.\r.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins767373@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R30 'R_GENERIC_RC0603_140R':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS767027@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins767027@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins767027@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R31 'R_GENERIC_RC0603_1K':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS764566@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins764566@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins764566@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R32 'R_GENERIC_RC0603_267K':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS763944@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins763944@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins763944@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R33 'R_GENERIC_RC0603_0/NI':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS767227@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins767227@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins767227@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R34 'R_GENERIC_RC0603_1K':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS765648@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins765648@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins765648@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R35 'R_GENERIC_RC0603_47K':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS764346@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins764346@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins764346@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R359 'R_10K_0603_RC0603_1K':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS16672294@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins16672294@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins16672294@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R36 'R_GENERIC_RC0603_330R':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS766973@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins766973@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins766973@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R360 'R_GENERIC_RC0603_50K':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS16672434@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins16672434@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins16672434@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R361 'R_GENERIC_RC0603_1K':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS16686414@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins16686414@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins16686414@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R362 'R_GENERIC_RC0603_267K_1':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS16686448@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins16686448@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins16686448@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R363 'R_GENERIC_R1206_5R':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS16697856@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins16697856@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins16697856@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R37 'R_GENERIC_RC0603_453K':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS764406@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins764406@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins764406@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R38 'R_GENERIC_RC0603_47K':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS763900@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins763900@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins763900@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R39 'R_GENERIC_RC0603_47K':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS764538@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins764538@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins764538@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_GENERIC_RC0603_20R':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS767591@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins767591@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins767591@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R40 'R_RC0603_1K':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS765580@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins765580@discrete.\r.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins765580@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R41 'R_RC0603_47K':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS767689@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins767689@discrete.\r.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins767689@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R42 'R_GENERIC_RC0603_1K':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS765504@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins765504@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins765504@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R43 'RES_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS770923@BCM_911EDA.RES.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins770923@bcm_911eda.\res.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins770923@bcm_911eda.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R44 'RES_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS770869@BCM_911EDA.RES.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins770869@bcm_911eda.\res.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins770869@bcm_911eda.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_RC0603_47K':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS767345@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins767345@discrete.\r.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins767345@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS23540@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins23540@discrete.\r.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins23540@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS23514@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins23514@discrete.\r.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins23514@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_RC0603_47K':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS23826@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins23826@discrete.\r.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins23826@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'RES_RC0603_0R':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS672799@BCM_911EDA.RES.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins672799@bcm_911eda.\res.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins672799@bcm_911eda.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 '74HC245_SSOP20_SN74AHC245PWR':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS23958@LIBRARY1.74HC245.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins23958@library1.\74hc245.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins23958@library1.\74hc245.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U10 'MEMEE_512MBX8_DBGA8_100KHZ_I2C_':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS672765@EP_LF_ORCAD_LIBRARY1.MEMEE_512MBX8_DBGA8_100KHZ_I2C.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins672765@ep_lf_orcad_library1.\memee_512mbx8_dbga8_100khz_i2c.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins672765@ep_lf_orcad_library1.\memee_512mbx8_dbga8_100khz_i2c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U101 'SN74AUP1G32YZPR_0_SOT363_74LVC2':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS16672310@F5438A_GRD_001.SN74AUP1G32YZPR_0.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins16672310@f5438a_grd_001.\sn74aup1g32yzpr_0.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins16672310@f5438a_grd_001.\sn74aup1g32yzpr_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U11 'SN74AUP1G32YZPR_0_SOT23_5_SPX38':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS16663816@F247_POWE_V10B.SN74AUP1G32YZPR_0.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins16663816@f247_powe_v10b.\sn74aup1g32yzpr_0.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins16663816@f247_powe_v10b.\sn74aup1g32yzpr_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U12 'TPS7133_0_SO8_SI4497DY-T1-GE3':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS767655@F247_POWE_V10A.TPS7133_0.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins767655@f247_powe_v10a.\tps7133_0.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins767655@f247_powe_v10a.\tps7133_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U13 'SN74AUP1G32YZPR_1_SOT23_5_SN74A':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS765606@F5438A_GRD_002.SN74AUP1G32YZPR_1.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins765606@f5438a_grd_002.\sn74aup1g32yzpr_1.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins765606@f5438a_grd_002.\sn74aup1g32yzpr_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'MSP430F247TPM_0_QFP64_MSP430F24':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS150@F247_POWE_V10A.MSP430F247TPM_0.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins150@f247_powe_v10a.\msp430f247tpm_0.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins150@f247_powe_v10a.\msp430f247tpm_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'SP706T_SOIC8_SP706REN':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS7784@MYLIB.SP706T.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins7784@mylib.\sp706t.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins7784@mylib.\sp706t.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'F247_MOD_A_F247_MOD_A_F247_MOD_':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS456474@MYLIB.F247_MOD_AA.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins456474@mylib.\f247_mod_aa.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins456474@mylib.\f247_mod_aa.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS457023@MYLIB.F247_MOD_AB.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins457023@mylib.\f247_mod_ab.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins457023@mylib.\f247_mod_ab.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+PART_NAME
+ U5 'CD4060BM_0_SOP16_HEF4521B':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS767063@MK60N_001.CD4060BM_0.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins767063@mk60n_001.\cd4060bm_0.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins767063@mk60n_001.\cd4060bm_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 '74HC123_SOP16_74HC123D':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS763784@MYLIB.74HC123.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins763784@mylib.\74hc123.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins763784@mylib.\74hc123.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U7 '74HC123_SOP16_74HC123D':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS764224@MYLIB.74HC123.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins764224@mylib.\74hc123.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins764224@mylib.\74hc123.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U8 'SN74AUP1G32YZPR_0_SOT23_5_SPX38':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS769767@F247_POWE_V10B.SN74AUP1G32YZPR_0.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins769767@f247_powe_v10b.\sn74aup1g32yzpr_0.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins769767@f247_powe_v10b.\sn74aup1g32yzpr_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U9 'SN74AUP1G32YZPR_0_SOT363_74LVC2':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS767495@F5438A_GRD_001.SN74AUP1G32YZPR_0.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins767495@f5438a_grd_001.\sn74aup1g32yzpr_0.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page4_ins767495@f5438a_grd_001.\sn74aup1g32yzpr_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'SMD_OSC_1_CRY3X2A_DSX321G_8MHZ/':;
+
+SECTION_NUMBER 1
+ '@F247_POWE_V12D-D.SCHEMATIC1(SCH_1):INS731415@MK60_YTAI_V12A.SMD_OSC_1.NORMAL(CHIPS)':
+ C_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):ins731415@mk60_ytai_v12a.\smd_osc_1.normal\(chips)',
+ P_PATH='@\f247_powe_v12d-d\.schematic1(sch_1):page3_ins731415@mk60_ytai_v12a.\smd_osc_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.
