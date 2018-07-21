@@ -1,9 +1,0 @@
-Name,Type,Page,Page Number,Schematic,PartPin,LocationX,LocationY,Zone,IREF
-"RST1","OffPage","04 POW_DOG","4","SCHEMATIC1","C159.1","140","360","5C","{3}"
-"RST1","OffPage","03 MSP430F247","3","SCHEMATIC1","U3.8","1280","280","2D","{4}"
-"TO_IMX283","OffPage","04 POW_DOG","4","SCHEMATIC1","R4.1","1230","190","2D","{3}"
-"TO_IMX283","OffPage","03 MSP430F247","3","SCHEMATIC1","U4A.20","380","760","4B","{4}"
-"TO_DSPorA9","OffPage","04 POW_DOG","4","SCHEMATIC1","R2.1","1230","210","2D","{3}"
-"TO_DSPorA9","OffPage","03 MSP430F247","3","SCHEMATIC1","U4A.19","170","760","5B","{4}"
-"POW_DOG","OffPage","04 POW_DOG","4","SCHEMATIC1","Q61.3,R41.2,U12.4","1340","380","2C","{3}"
-"POW_DOG","OffPage","03 MSP430F247","3","SCHEMATIC1","U4B.49","540","780","4B","{4}"
