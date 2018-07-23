@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 17.2.0 d001Jul-21-2018 at 17:56:15 }
+{ Using PSTWRITER 17.2.0 d001Jul-23-2018 at 17:41:36 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='HY_TSSB_ZB_V10A';
@@ -558,16 +558,6 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- C68 'CAP NP_3_CC0603_4.7NF_25V':;
-
-SECTION_NUMBER 1
- '@HY_TSSB_ZB_V10A.MAIN(SCH_1):INS17348369@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
- C_PATH='@hy_tssb_zb_v10a.main(sch_1):ins17348369@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
- P_PATH='@hy_tssb_zb_v10a.main(sch_1):page5_ins17348369@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
  C69 'CAP NP_2_CC0603_0.1UF_25V':;
 
 SECTION_NUMBER 1
@@ -868,22 +858,22 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- F4 'FUSE_JK30-300_JK30-300':;
+ F1 'FUSE_FUSE1812_MSMD200-16V':;
 
 SECTION_NUMBER 1
- '@HY_TSSB_ZB_V10A.MAIN(SCH_1):INS17323734@HYOC.FUSE.NORMAL(CHIPS)':
- C_PATH='@hy_tssb_zb_v10a.main(sch_1):ins17323734@hyoc.\fuse.normal\(chips)',
- P_PATH='@hy_tssb_zb_v10a.main(sch_1):page7_ins17323734@hyoc.\fuse.normal\(chips)',
+ '@HY_TSSB_ZB_V10A.MAIN(SCH_1):INS17412142@HYOC.FUSE.NORMAL(CHIPS)':
+ C_PATH='@hy_tssb_zb_v10a.main(sch_1):ins17412142@hyoc.\fuse.normal\(chips)',
+ P_PATH='@hy_tssb_zb_v10a.main(sch_1):page7_ins17412142@hyoc.\fuse.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- F5 'FUSE_JK30-300_JK30-300':;
+ F2 'FUSE_FUSE1812_MSMD200-16V':;
 
 SECTION_NUMBER 1
- '@HY_TSSB_ZB_V10A.MAIN(SCH_1):INS17375700@HYOC.FUSE.NORMAL(CHIPS)':
- C_PATH='@hy_tssb_zb_v10a.main(sch_1):ins17375700@hyoc.\fuse.normal\(chips)',
- P_PATH='@hy_tssb_zb_v10a.main(sch_1):page7_ins17375700@hyoc.\fuse.normal\(chips)',
+ '@HY_TSSB_ZB_V10A.MAIN(SCH_1):INS17412211@HYOC.FUSE.NORMAL(CHIPS)':
+ C_PATH='@hy_tssb_zb_v10a.main(sch_1):ins17412211@hyoc.\fuse.normal\(chips)',
+ P_PATH='@hy_tssb_zb_v10a.main(sch_1):page7_ins17412211@hyoc.\fuse.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -914,6 +904,16 @@ SECTION_NUMBER 1
  '@HY_TSSB_ZB_V10A.MAIN(SCH_1):INS17333510@CONNECTOR.CONN RCPT 4.NORMAL(CHIPS)':
  C_PATH='@hy_tssb_zb_v10a.main(sch_1):ins17333510@connector.\conn rcpt 4.normal\(chips)',
  P_PATH='@hy_tssb_zb_v10a.main(sch_1):page8_ins17333510@connector.\conn rcpt 4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J18 'CONN RCPT 2_XH-2A_XHB-2A':;
+
+SECTION_NUMBER 1
+ '@HY_TSSB_ZB_V10A.MAIN(SCH_1):INS17412242@CONNECTOR.CONN RCPT 2.NORMAL(CHIPS)':
+ C_PATH='@hy_tssb_zb_v10a.main(sch_1):ins17412242@connector.\conn rcpt 2.normal\(chips)',
+ P_PATH='@hy_tssb_zb_v10a.main(sch_1):page6_ins17412242@connector.\conn rcpt 2.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -1768,16 +1768,6 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R252 'R_GENERIC_RC0603_100K':;
-
-SECTION_NUMBER 1
- '@HY_TSSB_ZB_V10A.MAIN(SCH_1):INS17396176@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
- C_PATH='@hy_tssb_zb_v10a.main(sch_1):ins17396176@\emulation module\.\r_generic.normal\(chips)',
- P_PATH='@hy_tssb_zb_v10a.main(sch_1):page6_ins17396176@\emulation module\.\r_generic.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
  R253 'R_GENERIC_RC0603_114K':;
 
 SECTION_NUMBER 1
@@ -2238,16 +2228,6 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R94 'R_GENERIC_RC0603_10M':;
-
-SECTION_NUMBER 1
- '@HY_TSSB_ZB_V10A.MAIN(SCH_1):INS17348350@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
- C_PATH='@hy_tssb_zb_v10a.main(sch_1):ins17348350@\emulation module\.\r_generic.normal\(chips)',
- P_PATH='@hy_tssb_zb_v10a.main(sch_1):page5_ins17348350@\emulation module\.\r_generic.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
  R95 'R_GENERIC_RC0603_0R':;
 
 SECTION_NUMBER 1
@@ -2568,7 +2548,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- USB3 'USB-MICRO_USB-MICRO_USB-MICRO':;
+ USB3 'USB-MICRO_USB-U-F-M5SS-W-1_USB-':;
 
 SECTION_NUMBER 1
  '@HY_TSSB_ZB_V10A.MAIN(SCH_1):INS17395984@HYOC.USB-MICRO.NORMAL(CHIPS)':
@@ -2578,7 +2558,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- USB4 'USB-A_USB-A_USB-A':;
+ USB4 'USB-A_USB-A-SMD_USB-A':;
 
 SECTION_NUMBER 1
  '@HY_TSSB_ZB_V10A.MAIN(SCH_1):INS17396241@HYOC.USB-A.NORMAL(CHIPS)':
@@ -2588,7 +2568,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- USB5 'USB-A_USB-A_USB-A':;
+ USB5 'USB-A_USB-A-SMD_USB-A':;
 
 SECTION_NUMBER 1
  '@HY_TSSB_ZB_V10A.MAIN(SCH_1):INS17402523@HYOC.USB-A.NORMAL(CHIPS)':

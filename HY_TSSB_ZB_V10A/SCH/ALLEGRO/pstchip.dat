@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.2.0 d001Jul-21-2018 at 17:56:15}
+{ Using PSTWRITER 17.2.0 d001Jul-23-2018 at 17:41:36}
 primitive 'CAP NP_2_CC0603_0.1UF_25V';
   pin
     '1':
@@ -165,21 +165,6 @@ primitive 'CAP NP_2_CC0603_100PF_25V';
     VALUE='100pF_25V';
   end_body;
 end_primitive;
-primitive 'CAP NP_3_CC0603_4.7NF_25V';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='CAP NP_3';
-    JEDEC_TYPE='CC0603';
-    VALUE='4.7nF_25V';
-  end_body;
-end_primitive;
 primitive 'CAP NP_2_CC0603_0.1UF_25V/NI';
   pin
     '1':
@@ -300,7 +285,7 @@ primitive 'LED_4_LED0805_LED_YELLOW';
     VALUE='LED_YELLOW';
   end_body;
 end_primitive;
-primitive 'FUSE_JK30-300_JK30-300';
+primitive 'FUSE_FUSE1812_MSMD200-16V';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -311,8 +296,8 @@ primitive 'FUSE_JK30-300_JK30-300';
   end_pin;
   body
     PART_NAME='FUSE';
-    JEDEC_TYPE='JK30-300';
-    VALUE='JK30-300';
+    JEDEC_TYPE='FUSE1812';
+    VALUE='mSMD200-16V';
   end_body;
 end_primitive;
 primitive 'IPEX_1_IPEX3_IPEX/NI';
@@ -355,6 +340,21 @@ primitive 'CONN RCPT 4_XHB-4A_XHB-4A';
     PART_NAME='CONN RCPT 4';
     JEDEC_TYPE='XHB-4A';
     VALUE='XHB-4A';
+  end_body;
+end_primitive;
+primitive 'CONN RCPT 2_XH-2A_XHB-2A';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CONN RCPT 2';
+    JEDEC_TYPE='XH-2A';
+    VALUE='XHB-2A';
   end_body;
 end_primitive;
 primitive 'CON20_0_HEADER10X2_2R54_L_HEADE';
@@ -1243,21 +1243,6 @@ primitive 'R_GENERIC_RC2512_0R01';
     PART_NAME='R_Generic';
     JEDEC_TYPE='RC2512';
     VALUE='0R01';
-  end_body;
-end_primitive;
-primitive 'R_GENERIC_RC0603_10M';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='R_Generic';
-    JEDEC_TYPE='RC0603';
-    VALUE='10M';
   end_body;
 end_primitive;
 primitive 'SWITCH-SPST-4P_K2-1112SW-A4SW-0';
@@ -2553,7 +2538,7 @@ primitive 'TYPE-C_16P_USB_TYPE-C_16P_USB_T';
     VALUE='USB_TYPE-C_16P';
   end_body;
 end_primitive;
-primitive 'USB-MICRO_USB-MICRO_USB-MICRO';
+primitive 'USB-MICRO_USB-U-F-M5SS-W-1_USB-';
   pin
     'VBUS':
       PIN_NUMBER='(1)';
@@ -2585,11 +2570,11 @@ primitive 'USB-MICRO_USB-MICRO_USB-MICRO';
   end_pin;
   body
     PART_NAME='USB-MICRO';
-    JEDEC_TYPE='USB-MICRO';
+    JEDEC_TYPE='USB-U-F-M5SS-W-1';
     VALUE='USB-MICRO';
   end_body;
 end_primitive;
-primitive 'USB-A_USB-A_USB-A';
+primitive 'USB-A_USB-A-SMD_USB-A';
   pin
     'VBUS':
       PIN_NUMBER='(1)';
@@ -2612,7 +2597,7 @@ primitive 'USB-A_USB-A_USB-A';
   end_pin;
   body
     PART_NAME='USB-A';
-    JEDEC_TYPE='USB-A';
+    JEDEC_TYPE='USB-A-SMD';
     VALUE='USB-A';
   end_body;
 end_primitive;

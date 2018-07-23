@@ -123,7 +123,8 @@
       (Path "Design Resources" ".\hy_tssb_zb_v10a.dsn")
       (Path "Design Resources" ".\hy_tssb_zb_v10a.dsn" "MAIN")
       (Path "Design Resources" "Library")
-      (Path "Outputs"))
+      (Path "Outputs")
+      (Select "Design Resources" ".\hy_tssb_zb_v10a.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -133,9 +134,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 26 1665 26 539")
-        (Scroll "0 564")
-        (Zoom "244")
+        (Placement "44 0 1 -1 -1 -8 -31 104 1691 104 723")
+        (Scroll "0 1563")
+        (Zoom "296")
         (Occurrence "/"))
       (Path
          "G:\SVN\HARD_GROUP\手持调试设备\TRUNK\HY_TSSB_ZB_V10A\SCH\HY_TSSB_ZB_V10A.DSN")
@@ -144,14 +145,36 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1691 52 565")
-        (Scroll "28 539")
-        (Zoom "122")
+        (Placement "44 0 1 -1 -1 -8 -31 286 1873 286 905")
+        (Scroll "1171 5865")
+        (Zoom "592")
         (Occurrence "/"))
       (Path
          "G:\SVN\HARD_GROUP\手持调试设备\TRUNK\HY_TSSB_ZB_V10A\SCH\HY_TSSB_ZB_V10A.DSN")
       (Schematic "MAIN")
-      (Page "03 MCU")))
+      (Page "03 MCU"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1587 0 619")
+        (Scroll "-163 0")
+        (Zoom "74")
+        (Occurrence "/"))
+      (Path
+         "G:\SVN\HARD_GROUP\手持调试设备\TRUNK\HY_TSSB_ZB_V10A\SCH\HY_TSSB_ZB_V10A.DSN")
+      (Schematic "MAIN")
+      (Page "05 WIFI"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1613 26 645")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "G:\SVN\HARD_GROUP\手持调试设备\TRUNK\HY_TSSB_ZB_V10A\SCH\HY_TSSB_ZB_V10A.DSN")
+      (Schematic "MAIN")
+      (Page "08 OUT PORT")))
   (PartMRUSelector
     (USB-A
       (FullPartName "USB-A.Normal")
