@@ -123,7 +123,7 @@
       (Path "Design Resources" ".\hy_mwyt_3s12_v10a.dsn" "MAIN")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\hy_mwyt_3s12_v10a.dsn" "MAIN" "03 MCU"))
+      (Select "Design Resources" ".\hy_mwyt_3s12_v10a.dsn" "MAIN" "04 MODULE"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -134,13 +134,12 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 26 1352 26 641")
-        (Scroll "0 0")
-        (Zoom "100")
+        (Scroll "1384 1400")
+        (Zoom "400")
         (Occurrence "/"))
-      (Path
-         "G:\SVN\HARD_GROUP\ÔÆÌ¨¿ØÖÆ°å\TRUNK\HY_MWYT_3S12_V10A\SCH\HY_MWYT_3S12_V10A.DSN")
+      (Path "H:\HYOC\HYOC-TEMP\HY_MWYT_3S12_V10A\SCH\HY_MWYT_3S12_V10A.DSN")
       (Schematic "MAIN")
-      (Page "03 MCU")))
+      (Page "04 MODULE")))
   (PartMRUSelector
     (HPSD_24V4A
       (FullPartName "HPSD_24V4A.Normal")
@@ -167,5 +166,5 @@
       (FullPartName "CONN RCPT 2.Normal")
       (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
       (DeviceIndex "0")))
-  (MPSSessionName "Administrator")
+  (MPSSessionName "xxxlzjxxx")
   (ISPCBBASICLICENSE "false"))
